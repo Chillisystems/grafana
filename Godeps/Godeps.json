@@ -189,7 +189,8 @@
 		},
 		{
 			"ImportPath": "gopkg.in/macaron.v1",
-			"Rev": "1c6dd87797ae9319b4658cbd48d1d0420b279fd5"
+			"Comment": "v1.1.8",
+			"Rev": "4974334b10dbb6f5c0e17f4c10555ff050a16329"
 		},
 		{
 			"ImportPath": "gopkg.in/redis.v2",
